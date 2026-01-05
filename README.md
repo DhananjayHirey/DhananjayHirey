@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,html,css,redux" width="240" height="240" alt="Frontend" /><br>
+      <img src="https://skillicons.dev/icons?i=react,html,css,redux,tailwind,bootstrap" width="240" height="240" alt="Frontend" /><br>
       <b>Frontend</b>
     </td>
     <td align="center">
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td align="center">
-       <img src="https://skillicons.dev/icons?i=kafka,docker,kubernetes,linux,git" width="240" height="240" alt="DevOps" /><br>
+       <img src="https://skillicons.dev/icons?i=kafka,docker,postman,git,maven,gcp" width="240" height="240" alt="DevOps" /><br>
       <b>DevOps & Tools</b>
     </td>
     <td align="center">
-       <img src="https://skillicons.dev/icons?i=hibernate,prisma" width="240" height="240" alt="ORM" /><br>
+       <img src="https://skillicons.dev/icons?i=hibernate,prisma" width="120" height="120" alt="ORM" /><br>
       <b>ORMs</b>
     </td>
   </tr>
