@@ -14,15 +14,6 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DhananjayHirey&theme=tokyonight&no-frame=true&row=1&column=7"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack & Arsenal
 
 <table align="center">
@@ -65,17 +56,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DhananjayHirey&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DhananjayHirey&theme=tokyonight" />
-  
-  <br/>
-  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayHirey&layout=compact&theme=tokyonight&langs_count=8" />
-  
-</div>
 
 ### 📈 Contribution Graph
 <p align="center">
