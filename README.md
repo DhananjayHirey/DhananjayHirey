@@ -62,6 +62,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhananjayhirey&theme=tokyonight" width="100%"/>
 </p>
 <div align="center"><img src="https://raw.githubusercontent.com/DhananjayHirey/DhananjayHirey/output/snake.svg" alt="Snake animation" /></div>
+---
+
+## 📊Leetcode Analytics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dhananjayhirey?ext=heatmap" />
+</p>
 
 
 ---
